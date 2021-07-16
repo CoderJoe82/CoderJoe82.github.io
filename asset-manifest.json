@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.10dea229.chunk.css",
-    "main.js": "/Portfolio/static/js/main.e05b1404.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.e05b1404.chunk.js.map",
-    "runtime-main.js": "/Portfolio/static/js/runtime-main.e1756ad8.js",
-    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e1756ad8.js.map",
-    "static/js/2.632b8dfc.chunk.js": "/Portfolio/static/js/2.632b8dfc.chunk.js",
-    "static/js/2.632b8dfc.chunk.js.map": "/Portfolio/static/js/2.632b8dfc.chunk.js.map",
-    "static/js/3.ac0cd9af.chunk.js": "/Portfolio/static/js/3.ac0cd9af.chunk.js",
-    "static/js/3.ac0cd9af.chunk.js.map": "/Portfolio/static/js/3.ac0cd9af.chunk.js.map",
+    "main.css": "/Portfolio/static/css/main.b1a7e40a.chunk.css",
+    "main.js": "/Portfolio/static/js/main.2ca6178b.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.2ca6178b.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.6ea91d1c.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.6ea91d1c.js.map",
+    "static/js/2.c64fe772.chunk.js": "/Portfolio/static/js/2.c64fe772.chunk.js",
+    "static/js/2.c64fe772.chunk.js.map": "/Portfolio/static/js/2.c64fe772.chunk.js.map",
+    "static/js/3.c9243dbb.chunk.js": "/Portfolio/static/js/3.c9243dbb.chunk.js",
+    "static/js/3.c9243dbb.chunk.js.map": "/Portfolio/static/js/3.c9243dbb.chunk.js.map",
     "index.html": "/Portfolio/index.html",
-    "static/css/main.10dea229.chunk.css.map": "/Portfolio/static/css/main.10dea229.chunk.css.map",
-    "static/js/2.632b8dfc.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.632b8dfc.chunk.js.LICENSE.txt",
-    "static/media/landing.page.large.css": "/Portfolio/static/media/fingerstouchinglarge.77ddb7ef.jpg",
+    "static/css/main.b1a7e40a.chunk.css.map": "/Portfolio/static/css/main.b1a7e40a.chunk.css.map",
+    "static/js/2.c64fe772.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.c64fe772.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Portfolio/static/media/fingerstouchinglarge.77ddb7ef.jpg",
     "static/media/portfolioiconimage.b23f504b.png": "/Portfolio/static/media/portfolioiconimage.b23f504b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e1756ad8.js",
-    "static/js/2.632b8dfc.chunk.js",
-    "static/css/main.10dea229.chunk.css",
-    "static/js/main.e05b1404.chunk.js"
+    "static/js/runtime-main.6ea91d1c.js",
+    "static/js/2.c64fe772.chunk.js",
+    "static/css/main.b1a7e40a.chunk.css",
+    "static/js/main.2ca6178b.chunk.js"
   ]
 }
