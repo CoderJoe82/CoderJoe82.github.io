@@ -7,7 +7,7 @@ class Routes extends Component {
         return (
             <Router>
                 <Switch>
-                    <Route path = "/Portfolio" exact component = {LandingPage}/>
+                    <Route path = "/" exact component = {LandingPage}/>
                 </Switch>
             </Router>
         )
