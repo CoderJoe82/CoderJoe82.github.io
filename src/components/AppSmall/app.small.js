@@ -28,6 +28,7 @@ class LandingPageSmall extends Component {
           <ul id ="projectListsSmall">
             <li>
               <a href="https://CoderJoe82.github.io/Calculator" rel = "noreferrer" target = "_blank">Redux Calculator</a>
+              <a href="https://CoderJoe82.github.io/discordclone" rel = "noreferrer" target = "_blank">Basic Discord Clone (Offline)</a>
             </li>
           </ul>
         </div>
