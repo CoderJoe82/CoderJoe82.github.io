@@ -29,6 +29,7 @@ class LandingPageLarge extends Component {
           <div className = "projectLists">
             <ul>
               <li><a href = "https://CoderJoe82.github.io/Calculator" rel = "noreferrer" target = "_blank">Redux Calculator</a></li>
+              <li><a href = "https://CoderJoe82.github.io/discordclone" rel = "noreferrer" target = "_blank">Basic Discord Clone (offline)</a></li>
             </ul>
           </div>
           <div className = "projectLists"></div>
